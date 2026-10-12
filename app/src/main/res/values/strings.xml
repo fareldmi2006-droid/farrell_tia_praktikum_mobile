@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Farrell_tia</string>
     <string name="deskripsi">apak ang</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
