@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn">#FBC02D</color>
+    <color name="bckgr">#F5F5DC</color>
+    <color name="maincl">#C62828</color>
+    <color name="tutorial_blue">#64B5F6</color>
+    <color name="tutorial_green">#AED581</color>
+    <color name="tutorial_teal">#4DB6AC</color>
+    <color name="abu_gelap">#5F6368</color>
+    <color name="dot_selected">#211C1C</color>
+    <!-- Ripple tombol Pertemuan 9 -->
+    <color name="ripple_espresso">#6D4C41</color>    <!-- cokelat -->
+    <color name="ripple_latte">#D7B899</color>       <!-- cokelat muda -->
+    <color name="ripple_cappuccino">#C8A27C</color>  <!-- cokelat keputihan -->
+    <color name="ripple_americano">#3E2723</color>   <!-- cokelat tua -->
+    <color name="ripple_matcha">#8BC34A</color>      <!-- hijau matcha -->
+    <color name="ripple_kopisusu">#FFF3D6</color>    <!-- krem -->
+    <color name="ripple_login">#4CAF50</color>       <!-- hijau -->
+</resources>

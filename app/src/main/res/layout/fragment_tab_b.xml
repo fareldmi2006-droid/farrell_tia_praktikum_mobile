@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tab Tentang (Latihan 5.1): informasi kedai kopi -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF3D6"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tentang Kedai Kopi"
+        android:textColor="#3E2723"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="Kedai kopi kecil di Pekanbaru dengan biji kopi pilihan dari Sumatra.\n\nBuka setiap hari 08.00 - 22.00\nJl. Umban Sari No. 1, Rumbai"
+        android:textColor="#5D4037"
+        android:textSize="16sp" />
+
+</LinearLayout>
